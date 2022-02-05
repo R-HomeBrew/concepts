@@ -86,6 +86,7 @@ public class HandsOn {
 		}
 	}
 	
+	
 	public void streamFromCollection(Collection<String> list) {
 		// 2. Create  Stream from Collection
 		Stream<String> stream = list.stream();

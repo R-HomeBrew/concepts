@@ -215,7 +215,7 @@ public class App {
 		
 		if(awsOptional.isEmpty()) returnValue = "";
 		
-		maskCredentials(config);
+		maskCredentials(aws);
 		
 		//maskCredentials(nfs);
 		
