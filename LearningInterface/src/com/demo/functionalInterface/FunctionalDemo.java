@@ -24,6 +24,7 @@ interface Calculator <I extends Data, R extends Income> {
 
 public class FunctionalDemo {
 	
+	
 
 	public static void main(String[] args) {
 		
